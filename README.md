@@ -115,7 +115,6 @@ UNIVERSIDAD
 
 ## 6. Capturas de pantalla
 
-<!-- Reemplazar con las capturas propias (guardarlas en la carpeta capturas/) -->
 
 **Menú principal**
 ![Menu](capturas/01-menu.png)
